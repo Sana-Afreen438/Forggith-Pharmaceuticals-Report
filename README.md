@@ -1,3 +1,4 @@
+[here] (https://app.powerbi.com/view?r=eyJrIjoiZjI3NjE2ZDYtOWJmYS00ZDk3LWI1YzMtNGNhNjA4MGM5OTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 # Forggith Pharmaceuticals Report
 
 # ![Logo](https://github.com/user-attachments/assets/48043b86-a06e-45e5-a7ea-daed9eeba037)
