@@ -74,8 +74,87 @@ In the Targets Table, I unpivoted the year columns, then I merged the month and 
 # Data Modelling
 The model is a star schema. There are 5-dimension tables and 2 fact tables. The dimension tables are all joined to the fact tables with a many-to-one relationship.
 
-# Auto Model                                                                                                            # Adjusted Model
-# ![image](https://github.com/user-attachments/assets/6661dccd-d345-4a79-8b1c-30cff646008b)                             # ![image](https://github.com/user-attachments/assets/15c59141-8496-44de-8100-600d375dad21)
+# Auto Model                                                                                                            
+# ![image](https://github.com/user-attachments/assets/6661dccd-d345-4a79-8b1c-30cff646008b)                             
+
+# Adjusted Model
+# ![image](https://github.com/user-attachments/assets/15c59141-8496-44de-8100-600d375dad21)
+
+The model is a star schema. There are 5-dimension tables and 2 fact tables. The dimension tables are all joined to the fact tables with a many-to-one relationship.
+
+# Visualization
+The report comprises of 3 pages:
+
+1.Overview (Home)
+2.Sales Report
+3.Marketing Report
+You can interact with the report [here]([https://dashboard.url](https://app.powerbi.com/view?r=eyJrIjoiOWNmYTc5MjMtMTYzNC00NmE2LWExZTQtZmM5MWQ1ZmZjNjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+
+I also incorporated tooltips for better insights.
+# ![image](https://github.com/user-attachments/assets/e154e5af-2ebf-49ce-807f-76c189b49646)
+
+# Analysis
+# Overview/Home Page:
+# ![image](https://github.com/user-attachments/assets/05cce9ea-2f5c-4a99-b735-ef7de2547aef)
+
+Has a Date filter that filters through 2022 - 2025.
+The three tabs at the top are buttons with hovering effects and each navigates through to the pages with similar name.
+Total of 27 million products were sold.
+Total revenue generated was $11.12 billion 💰
+Total target was $8.45 billion.
+
+# Sales Report Page:
+
+# ![image](https://github.com/user-attachments/assets/d5353f28-d580-4fcc-8850-9be435674761)
+
+This page is organized by Team, Year, Quarter, and Month 🗓️.
+
+It shows 4 key performance indicators (KPIs):
+
+Total Target
+Total Products
+Volume Sold vs Target Volume
+Total Revenue vs Target
+The page also includes charts that display:
+
+Revenue by Product Class
+Revenue by Channel
+Revenue Distribution by City
+Monthly Revenue Percentage Change
+Revenue vs Target for the Previous Year-to-Date (PYTD)
+There are a total of 240 products.
+
+# Marketing Report Page:
+
+# ![image](https://github.com/user-attachments/assets/9902d002-3352-4dbd-8910-a22e83cd6e22)
+
+This page is organized by Product Category, Team, Year, Quarter, and Month 🗓️.
+
+It shows 4 key performance indicators (KPIs):
+Total Customers
+Total Distributors
+Volume Sold vs Target Volume
+Total Revenue vs Target
+
+The page also includes charts displaying:
+Top and Bottom % of Products by Performance
+Revenue Performance by Team
+Performance by Sales Representatives
+There are a total of 551 customers 🧑‍🤝‍🧑 and 16 distributors.
+
+# Conclusion / Insights
+The Analgesics Product Class yielded the highest revenue of $2.2bn while the Antimalarial class yielded the lowest revenue of $1.4bn.
+Ionclotide drug yielded the highest revenue of $262k as product sold while Diaxolol yielded the lowest of $72K in total.
+2023 gave the highest revenue of about $0.9bn when compared to its yearly target as against other years.
+Distribution/Sales to Pharmacies yielded more revenue of 52.9% as compared to that of the Hospital channel.
+The Delta team showed highest performance in all years generating a total revenue of $3.43bn 👍 while the Alfa team showd lowest performance of $2.42bn.
+In 2022, Anne Wu performed best. In 2023, Abigail Thompson perfomed best. In 2024, Jimmy Grey performed best and in 2025, Stella Given performed best. Overall, Abigail Thompson yielded the most revenue of $929.43m ✨
+
+# Recommendation
+I recommend expanding distribution and sales beyond Europe, as this will favour sales of other classes more, especially the antimalarial drugs.
+Best performing teams should be given higher bonuses as this will make other teams perform better in future years to come.
+Sales Representatives seen to be performing well should be also be given bonuses, or better still have their salaries increased and should also be considered for promotions.
+
+# ![image](https://github.com/user-attachments/assets/f91f2308-8a2b-40bd-a217-1c2b21a31729)
 
 
-	
