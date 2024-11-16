@@ -1,4 +1,3 @@
-[here] (https://app.powerbi.com/view?r=eyJrIjoiZjI3NjE2ZDYtOWJmYS00ZDk3LWI1YzMtNGNhNjA4MGM5OTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 # Forggith Pharmaceuticals Report
 
 # ![Logo](https://github.com/user-attachments/assets/48043b86-a06e-45e5-a7ea-daed9eeba037)
@@ -90,7 +89,7 @@ The report comprises of 3 pages:
 2. Sales Report
 3. Marketing Report
 
-You can interact with the report here
+You can interact with the report [here] (https://app.powerbi.com/view?r=eyJrIjoiZjI3NjE2ZDYtOWJmYS00ZDk3LWI1YzMtNGNhNjA4MGM5OTM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 I also incorporated tooltips for better insights.
 # ![image](https://github.com/user-attachments/assets/e154e5af-2ebf-49ce-807f-76c189b49646)
