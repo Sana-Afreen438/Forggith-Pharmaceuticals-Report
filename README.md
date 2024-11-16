@@ -85,9 +85,10 @@ The model is a star schema. There are 5-dimension tables and 2 fact tables. The 
 # Visualization
 The report comprises of 3 pages:
 
-1.Overview (Home)
-2.Sales Report
-3.Marketing Report
+1. Overview (Home)
+2. Sales Report
+3. Marketing Report
+
 You can interact with the report [here]([https://dashboard.url](https://app.powerbi.com/view?r=eyJrIjoiOWNmYTc5MjMtMTYzNC00NmE2LWExZTQtZmM5MWQ1ZmZjNjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 I also incorporated tooltips for better insights.
