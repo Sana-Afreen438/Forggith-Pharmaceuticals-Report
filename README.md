@@ -96,7 +96,8 @@ I also incorporated tooltips for better insights.
 
 # Analysis
 # Overview/Home Page:
-# ![image](https://github.com/user-attachments/assets/05cce9ea-2f5c-4a99-b735-ef7de2547aef)
+# ![image](https://github.com/user-attachments/assets/6d55c33e-9200-44c1-88ff-ff91eaaeac80)
+
 
 Has a Date filter that filters through 2022 - 2025.
 The three tabs at the top are buttons with hovering effects and each navigates through to the pages with similar name.
